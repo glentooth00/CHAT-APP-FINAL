@@ -1,0 +1,13 @@
+{
+    "name": "myapp/source",
+    "description": "smaple",
+    "type": "sample",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Myapp\\Source\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
