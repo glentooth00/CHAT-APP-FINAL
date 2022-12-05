@@ -137,11 +137,11 @@ li{
     top: 20px;
   }
   .error-div{
-    
+    padding: 10px;
     left: 18em;
     width: 50%;
     display: block;
-    /* background-color: rgb(221, 221, 221); */
+    background-color: rgb(255, 255, 255);
     overflow: hidden;
     position: absolute;
     margin-top: 20px;
